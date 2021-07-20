@@ -19,7 +19,7 @@ yinyang.fig@gmail.com
 
 studioseon.official@gmail.com
 
-**🚹   &nbsp; I have experience of...**
+**🚹   &nbsp; I have experienced of...**
 
 C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express
 
