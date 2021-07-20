@@ -7,16 +7,16 @@
 
 ilpermet@gmail.com / +821043610917
 
-**🎨 graphic design, artwork project inquiry**
+**🎨  &nbsp; graphic design, artwork project inquiry**
 
 yinyang.fig@gmail.com
 [Yinyang.fig's IG](https://instagram.com/yinyang.fig) [Yinyang.fig's Website](https://yin-yang.work)
 
-**🖥  web/app development, service/platform proejct inquiry** 
+**🖥  &nbsp; web/app development, service/platform proejct inquiry** 
 
 studioseon.official@gmail.com
 
-**🚹  I have experience of...**
+**🚹   &nbsp; I have experience of...**
 
 C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express
 
