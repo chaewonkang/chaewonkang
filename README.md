@@ -2,7 +2,8 @@
 <h3 align="left">Graphic Designer, Web Designer, Frontend Engineer</h3>
 
 <h4 align="left">Web designer, Web developer at Yinyang.fig</h4>
-[**Yinyang.fig's IG**](https://instagram.com/yinyang.fig)
+
+[Yinyang.fig's IG](https://instagram.com/yinyang.fig)
 
 **🙋🏻‍♀️ I have experience of** : C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express
 
