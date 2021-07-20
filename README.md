@@ -1,4 +1,4 @@
-<img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/138679787_395530364856857_5736747153916449370_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=ODra3_CeQ-wAX9-2IC8&edm=AP_V10EBAAAA&ccb=7-4&oh=bcf56f981067cc3a76c2a4008a9be9b5&oe=60FD13C5&_nc_sid=4f375e" alt="profileimage" witdh="20vw">
+<img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/138679787_395530364856857_5736747153916449370_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=ODra3_CeQ-wAX9-2IC8&edm=AP_V10EBAAAA&ccb=7-4&oh=bcf56f981067cc3a76c2a4008a9be9b5&oe=60FD13C5&_nc_sid=4f375e" alt="profileimage" width="20vw">
 
 ### Chaewon Kang
 #### Graphic/Web Designer, Frontend Engineer
