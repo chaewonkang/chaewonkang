@@ -2,8 +2,13 @@
 <h3 align="left">Graphic Designer, Web Designer, Frontend Engineer</h3>
 
 <h4 align="left">Web designer, Web developer at Yinyang.fig</h4>
-<a href="https://instagram.com/yinyang.fig" target="_blank">IG</a>
-<a href="https://yin-yang.work" target="_blank">Homepage</a>
+[**Yinyang.fig's IG**](https://instagram.com/yinyang.fig)
+
+**🙋🏻‍♀️ I have experience of** : C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express
+
+**👩🏻‍💻 I belong to**: Yinyang.fig, studio.seon
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaewonkang&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaewonkang&show_icons=true&locale=en&layout=compact" alt="chaewonkang" /></p>
 
