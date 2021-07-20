@@ -3,7 +3,8 @@
 
 <h4 align="left">Web designer, Web developer at Yinyang.fig</h4>
 
-[Yinyang.fig's IG](https://instagram.com/yinyang.fig)
+☯️ [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
+☯️ [Yinyang.fig's Website](https://yin-yang.work)
 
 **🙋🏻‍♀️ I have experience of** : C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express
 
