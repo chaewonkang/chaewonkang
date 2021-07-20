@@ -7,7 +7,8 @@ ilpermet@gmail.com / +821043610917
 
 **🎨 graphic design, artwork project inquiry**
 
-yinyang.fig@gmail.com [Yinyang.fig's IG](https://instagram.com/yinyang.fig) [Yinyang.fig's Website](https://yin-yang.work)
+yinyang.fig@gmail.com
+[Yinyang.fig's IG](https://instagram.com/yinyang.fig) [Yinyang.fig's Website](https://yin-yang.work)
 
 **🖥  web/app development, service/platform proejct inquiry** 
 
