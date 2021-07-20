@@ -1,5 +1,5 @@
-### Chaewon Kang
-## Graphic Designer, Web Designer, Frontend Engineer
+## Chaewon Kang
+### Graphic Designer, Web Designer, Frontend Engineer
 
 #### personal inquiry: ilpermet@gmail.com / +821043610917
 
