@@ -1,14 +1,6 @@
 ### Chaewon Kang
 #### Graphic/Web Designer, Frontend Engineer
 
-<br></br>
-
-**🔐 &nbsp; personal inquiry**
-
-ilpermet@gmail.com / +821043610917
-
-**🎨  &nbsp; graphic design, artwork project inquiry**
-
 yinyang.fig@gmail.com
 <br></br> [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
 <br></br> [Yinyang.fig's Website](https://yin-yang.work)
