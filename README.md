@@ -11,7 +11,7 @@ studioseon.official@gmail.com
 
 **🚹   &nbsp; I have experienced of...**
 
-C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express
+C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScript
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaewonkang&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
