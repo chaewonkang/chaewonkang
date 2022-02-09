@@ -5,9 +5,6 @@ yinyang.fig@gmail.com
 <br></br> [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
 <br></br> [Yinyang.fig's Website](https://yin-yang.work)
 
-**🖥  &nbsp; web/app development, service/platform proejct inquiry** 
-
-studioseon.official@gmail.com
 
 **🚹   &nbsp; I have experienced of...**
 
