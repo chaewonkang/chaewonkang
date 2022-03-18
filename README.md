@@ -6,7 +6,7 @@ yinyang.fig@gmail.com
 <br></br> [Yinyang.fig's Website](https://yin-yang.work)
 
 
-**🚹   &nbsp; I have experienced of...**
+**I have experienced of...**
 
 C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScript
 
@@ -14,7 +14,7 @@ C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScrip
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaewonkang&show_icons=true&locale=en&layout=compact" alt="chaewonkang" /></p>
 
-### Portfolio
+**Portfolio**
 
 [Unfounded](https://areyoulost.xyz) <br></br>
 [Hinterland](https://hinterland.kr) <br></br>
