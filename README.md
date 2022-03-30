@@ -1,5 +1,4 @@
-### Chaewon Kang
-### Digital Director of YinYang
+### Chaewon Kang, Digital Director of YinYang
 
 yinyang.fig@gmail.com
 <br /> [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
