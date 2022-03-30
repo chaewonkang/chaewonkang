@@ -5,13 +5,9 @@ yinyang.fig@gmail.com
 <br /> [Yinyang.fig's Website](https://yin-yang.work)
 
 
-**I have experienced of...**
+### I have experienced of...
 
-C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScript
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaewonkang&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaewonkang&show_icons=true&locale=en&layout=compact" alt="chaewonkang" /></p>
+C/C++, Docker, k8s, Python django, React.js, Next.js, Node.js Express, React Native, TypeScript
 
 ### Project
 
