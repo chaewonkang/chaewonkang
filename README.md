@@ -24,6 +24,6 @@ C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScrip
 [Hongik University Visual Communication Design Dept. Website](https://sidi.hongik.ac.kr) <br></br>
 [grds HWMI](https://hwmi.grds.com) <br></br>
 [YINYANG](https://yin-yang.work) <br></br>
-[AE offices](https://aeoffices.com)
+[AE offices](https://aeoffices.com) <br /><br />
 [LKA Architects](https://leehongkim.com)
 
