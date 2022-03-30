@@ -25,4 +25,5 @@ C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScrip
 [grds HWMI](https://hwmi.grds.com) <br></br>
 [YINYANG](https://yin-yang.work) <br></br>
 [AE offices](https://aeoffices.com)
+[LKA Architects](https://leehongkim.com)
 
