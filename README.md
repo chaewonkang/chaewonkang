@@ -12,13 +12,13 @@ C/C++, Docker, k8s, Python django, React.js, Next.js, Node.js Express, React Nat
 ### Project
 
 **2022** <br />
-[AE offices](https://aeoffices.com) <br />
 [LKA Architects](https://leehongkim.com) <br />
 [Unfounded](https://areyoulost.xyz) <br />
 [Hinterland](https://hinterland.kr) <br />
 [AAMP online project](https://becominglocal.a-amp.org) <br />
 
 **2021** <br />
+[AE offices](https://aeoffices.com) <br />
 [Sujanggo](https://sujanggo.com) <br />
 [S.E.X.co., for Boma Pak](https://s-e-x-co.com)<br />
 [Hongik University Visual Communication Design Dept. Website](https://sidi.hongik.ac.kr)<br />
