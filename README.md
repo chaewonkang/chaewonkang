@@ -1,9 +1,9 @@
 ### Chaewon Kang
-### Graphic/Web Designer, Frontend Engineer
+### Digital Director of YinYang
 
 yinyang.fig@gmail.com
-<br></br> [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
-<br></br> [Yinyang.fig's Website](https://yin-yang.work)
+<br /> [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
+<br /> [Yinyang.fig's Website](https://yin-yang.work)
 
 
 **I have experienced of...**
