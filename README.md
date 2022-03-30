@@ -16,20 +16,19 @@ C/C++, Docker, k8s, python django, React.js, Next.js, node.js Express, TypeScrip
 
 ### Project
 
-**2022** <br /><br />
+**2022** <br />
+[AE offices](https://aeoffices.com) <br />
+[LKA Architects](https://leehongkim.com) <br />
+[Unfounded](https://areyoulost.xyz) <br />
+[Hinterland](https://hinterland.kr) <br />
+[AAMP online project](https://becominglocal.a-amp.org) <br />
 
-[AE offices](https://aeoffices.com) <br /><br />
-[LKA Architects](https://leehongkim.com)
-[Unfounded](https://areyoulost.xyz) <br></br>
-[Hinterland](https://hinterland.kr) <br></br>
-[AAMP online project](https://becominglocal.a-amp.org) <br></br>
-
-**2021** <br /><br />
-[Sujanggo](https://sujanggo.com) <br></br>
-[S.E.X.co., for Boma Pak](https://s-e-x-co.com) <br></br>
-[Hongik University Visual Communication Design Dept. Website](https://sidi.hongik.ac.kr) <br></br>
-[grds HWMI](https://hwmi.grds.com) <br></br>
-[YINYANG](https://yin-yang.work) <br></br>
+**2021** <br />
+[Sujanggo](https://sujanggo.com) <br />
+[S.E.X.co., for Boma Pak](https://s-e-x-co.com)<br />
+[Hongik University Visual Communication Design Dept. Website](https://sidi.hongik.ac.kr)<br />
+[grds HWMI](https://hwmi.grds.com)<br />
+[YINYANG](https://yin-yang.work)<br />
 
 
 
