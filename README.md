@@ -1,8 +1,8 @@
 ### Chaewon Kang, Digital Director of YinYang
 
 yinyang.fig@gmail.com
-<br /> [Yinyang.fig's IG](https://instagram.com/yinyang.fig)
-<br /> [Yinyang.fig's Website](https://yin-yang.work)
+<br /> [YinYang IG](https://instagram.com/yinyang.fig)
+<br /> [YinYang Website](https://yin-yang.work)
 
 
 ### I have experienced of...
