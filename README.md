@@ -16,8 +16,9 @@ C/C++, Docker, k8s, Python django, React.js, Next.js, Node.js Express, React Nat
 [Unfounded](https://areyoulost.xyz) <br />
 [Hinterland](https://hinterland.kr) <br />
 [AAMP online project](https://becominglocal.a-amp.org) <br />
-[King Lear for JIFF](https://www.mygravemypeace.com/)
+[King Lear for JIFF](https://www.mygravemypeace.com/)<br />
 [질문 박 터트리기 for wrm](https://boom-wrm.kr)
+[The Greencup Magazine](https://magazine.thegreencup.co.kr)
 
 **2021** <br />
 [AE offices](https://aeoffices.com) <br />
