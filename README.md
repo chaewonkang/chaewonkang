@@ -9,25 +9,6 @@ yinyang.fig@gmail.com
 
 C/C++, Docker, k8s, Python django, React.js, Next.js, Node.js Express, React Native, TypeScript
 
-### Project
-
-**2022** <br />
-[LKA Architects](https://leehongkim.com) <br />
-[Unfounded](https://areyoulost.xyz) <br />
-[Hinterland](https://hinterland.kr) <br />
-[AAMP online project](https://becominglocal.a-amp.org) <br />
-[King Lear for JIFF](https://www.mygravemypeace.com/)<br />
-[질문 박 터트리기 for wrm](https://boom-wrm.kr)<br />
-[The Greencup Magazine](https://magazine.thegreencup.co.kr)<br />
-[ARKO 융복합 페스티벌 2022](https://www.fable-net-earth.art/)
-
-**2021** <br />
-[AE offices](https://aeoffices.com) <br />
-[Sujanggo](https://sujanggo.com) <br />
-[S.E.X.co., for Boma Pak](https://s-e-x-co.com)<br />
-[Hongik University Visual Communication Design Dept. Website](https://sidi.hongik.ac.kr)<br />
-[grds HWMI](https://hwmi.grds.com)<br />
-[YINYANG](https://yin-yang.work)<br />
 
 
 
