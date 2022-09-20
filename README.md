@@ -18,6 +18,8 @@ C/C++, Docker, k8s, Python django, React.js, Next.js, Node.js Express, React Nat
 [AAMP online project](https://becominglocal.a-amp.org) <br />
 [King Lear for JIFF](https://www.mygravemypeace.com/)<br />
 [질문 박 터트리기 for wrm](https://boom-wrm.kr)<br />
+[Sujanggo](https://sujanggo.com)<br />
+[S.E.X.Co., for Boma Pak](https://s-e-x-co.com)<br />
 [The Greencup Magazine](https://magazine.thegreencup.co.kr) <br />
 [Hongik University Visual Communication Design Dept. Website](https://sidi.hongik.ac.kr)<br />
 [YINYANG](https://yin-yang.work)<br />
