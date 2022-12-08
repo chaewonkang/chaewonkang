@@ -27,12 +27,12 @@ Computer Science Course, 42 Seoul
 [Hinterland vol.2](https://v2.hinterland.kr) <br />
 [WO/F Transh Can!](https://mystrengthistrashcan.com) <br />
 [L'ARBRE 27 Teaser Website](https://larbre27.com)<br />
-[2022 ARKO 융복합 페스티벌](https://fable-net-earth.art/) <br />
+[2022 ARKO Art&Tech Festival](https://fable-net-earth.art/) <br />
 [Unfounded](https://areyoulost.xyz) <br />
 [Hinterland](https://hinterland.kr) <br />
 [AAMP online project](https://becominglocal.a-amp.org) <br />
 [King Lear for JIFF](https://www.mygravemypeace.com/)<br />
-[질문 박 터트리기 for wrm](https://boom-wrm.kr)<br />
+[Question! stripping for wrm](https://boom-wrm.kr)<br />
 [Sujanggo](https://sujanggo.com)<br />
 [S.E.X.Co., for Boma Pak](https://s-e-x-co.com)<br />
 [The Greencup Magazine](https://magazine.thegreencup.co.kr) <br />
