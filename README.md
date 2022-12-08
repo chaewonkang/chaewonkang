@@ -1,4 +1,4 @@
-## Chaewon Kang
+### Chaewon Kang
 I materialize narratives into digital spaces.
 
 ### Work
