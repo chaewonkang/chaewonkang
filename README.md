@@ -1,3 +1,6 @@
+## Chaewon Kang
+I materialize narratives into digital spaces.
+
 ### Work
 
 2023~<br/>
