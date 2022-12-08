@@ -1,5 +1,5 @@
 ### Chaewon Kang
-![Life, Autocompleted]([https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/52797618_258097745067757_8033758726127726251_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=eyhp_Tg_8nwAX8iAzc1&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk5MzE2Njk1MDEyMjY5NjE2NA%3D%3D.2-ccb7-5&oh=00_AfDxOtRMf7VFjTfHGV2KeVxq_Mgde8CKE4a9o-3wOBXP8g&oe=63965688&_nc_sid=30a2ef] "Life, Autocompleted")<br/>
+
 who materializes narratives into digital spaces.<br/>
 ...🪡📟
 <br/>
