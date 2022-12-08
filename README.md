@@ -4,8 +4,7 @@
 Digital Director of y! (Y Factorial)<br/>
 yfactorial.official@gmail.com<br/>
 [y! IG](https://instagram.com/yfactorial)<br/>
-[y! Website](https://y-factorial.com)<br/>(under construction)
-<br/>
+[y! Website](https://y-factorial.com) (under construction) <br/>
 
 2020~2022<br/>
 yinyang.fig@gmail.com
