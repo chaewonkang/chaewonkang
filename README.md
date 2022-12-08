@@ -1,5 +1,7 @@
 ### Chaewon Kang
-I materialize narratives into digital spaces.<br/>
+materializer narratives into digital spaces.<br/>
+<br/>
++821043610917<br/>
 [IG](https://instagram.com/sensemkr)<br/>
 ilpermet@gmail.com
 
