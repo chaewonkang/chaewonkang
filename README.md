@@ -12,9 +12,10 @@ yinyang.fig@gmail.com
 <br /> [YinYang Website](https://yin-yang.work)
 
 
-### I have experienced of...
+### Study
 
-C/C++, Docker, k8s, Python django, React.js, Next.js, Node.js Express, React Native, TypeScript
+Visual Communication Design Dept, Hongik Univertiy <br />
+Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
