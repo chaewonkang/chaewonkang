@@ -12,6 +12,7 @@ yfactorial.official@gmail.com<br/>
 [y! Website](https://y-factorial.com) (under construction) <br/>
 
 2020~2022<br/>
+Digital Director of YinYang<br/>
 yinyang.fig@gmail.com
 <br /> [YinYang IG](https://instagram.com/yinyang.fig)
 <br /> [YinYang Website](https://yin-yang.work)
