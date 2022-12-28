@@ -29,7 +29,7 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
-[beautiful_soup](https://beautifupsoup.org) <br />
+[beautiful_soup](https://beautifulsoup.org) <br />
 [Hinterland vol.2](https://v2.hinterland.kr) <br />
 [WO/F Transh Can!](https://mystrengthistrashcan.com) <br />
 [L'ARBRE 27 Teaser Website](https://larbre27.com)<br />
