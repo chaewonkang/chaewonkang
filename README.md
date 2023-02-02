@@ -29,6 +29,7 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
+[THE DOG CHASED ITS TAIL TO BITE IT OFF](https://the-dog-chased-its-tail-to-bite-it-off.vercel.app)<br />
 [beautiful_soup](https://beautifulsoup.org) <br />
 [Hinterland vol.2](https://v2.hinterland.kr) <br />
 [WO/F Transh Can!](https://mystrengthistrashcan.com) <br />
