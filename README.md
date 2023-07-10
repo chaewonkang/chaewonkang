@@ -13,7 +13,7 @@ ilpermet@gmail.com
 Digital Director of y! (Y Factorial)<br/>
 yfactorial.official@gmail.com<br/>
 [y! IG](https://instagram.com/yfactorial)<br/>
-[y! Website](https://y-factorial.com) (under construction) <br/>
+[y! Website](https://yfactorial.com)<br/>
 
 2020~2022<br/>
 Digital Director of YinYang<br/>
