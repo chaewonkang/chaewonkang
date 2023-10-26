@@ -29,6 +29,7 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
+[Moirai](https://moiraimoirai.com)<br />
 [FILM FETISH by Kaneko Yu](https://filmfetish-nextjs.vercel.app)<br />
 [THE DOG CHASED ITS TAIL TO BITE IT OFF](https://the-dog-chased-its-tail-to-bite-it-off.vercel.app)<br />
 [beautiful_soup](https://beautifulsoup.org) <br />
@@ -37,6 +38,7 @@ Computer Science Course, 42 Seoul
 [L'ARBRE 27 Teaser Website](https://larbre27.com)<br />
 [2022 ARKO Art&Tech Festival](https://fable-net-earth.art/) <br />
 [Unfounded](https://areyoulost.xyz) <br />
+[LKA Architecture](https://leehongkim.com/)<br />
 [Hinterland](https://hinterland.kr) <br />
 [AAMP online project](https://becominglocal.a-amp.org) <br />
 [King Lear for JIFF](https://www.mygravemypeace.com/)<br />
