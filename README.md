@@ -29,6 +29,7 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
+[Seoul Beauty Travel Week](https://www.seoulbeautytravel.com/kr)<br />
 [Moirai](https://moiraimoirai.com)<br />
 [FILM FETISH by Kaneko Yu](https://filmfetish-nextjs.vercel.app)<br />
 [THE DOG CHASED ITS TAIL TO BITE IT OFF](https://the-dog-chased-its-tail-to-bite-it-off.vercel.app)<br />
