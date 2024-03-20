@@ -24,7 +24,7 @@ yinyang.fig@gmail.com
 
 ### Study
 
-Visual Communication Design Dept, Hongik Univertiy <br />
+Visual Communication Design Dept, Hongik University <br />
 Computer Science Course, 42 Seoul
 
 ### Selected Projects
