@@ -29,6 +29,7 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
+[15th Gwangju Biennale](https://www.15gwangjubiennale.com/)<br />
 [Seoul Beauty Travel Week](https://www.seoulbeautytravel.com/kr)<br />
 [Moirai](https://moiraimoirai.com)<br />
 [FILM FETISH by Kaneko Yu](https://filmfetish-nextjs.vercel.app)<br />
