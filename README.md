@@ -29,6 +29,8 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
+[NOA Architect(WIP](https://newoldarchitecture.com)<br />
+[Post-Sexual Futures](https://postsexualfutures.com)<br />
 [Every Island is a Mountain](https://venicebiennale.kr)<br />
 [15th Gwangju Biennale](https://www.15gwangjubiennale.com/)<br />
 [Seoul Beauty Travel Week](https://www.seoulbeautytravel.com/kr)<br />
