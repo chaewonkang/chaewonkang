@@ -11,7 +11,7 @@ ilpermet@gmail.com
 
 2023~<br/>
 Digital Director of y! (Y Factorial)<br/>
-yfactorial.official@gmail.com<br/>
+hello@yfactorial.com<br/>
 [y! IG](https://instagram.com/yfactorial)<br/>
 [y! Website](https://yfactorial.com)<br/>
 
@@ -29,7 +29,10 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
-[NOA Architect(WIP)](https://newoldarchitecture.com)<br />
+
+[EMIS](https://emis.kr)<br />
+[Post Sexual Futures](https://psf-preview.vercel.app/)<br />
+[NOA Architect](https://newoldarchitecture.com)<br />
 [LOW CLASSIC](https://lowclassic.com)<br />
 [grds](https://grds.com)<br/>
 [apart from that](https://apartfromthat-store.com)<br />
