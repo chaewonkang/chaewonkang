@@ -31,12 +31,11 @@ Computer Science Course, 42 Seoul
 
 
 [EMIS](https://emis.kr)<br />
-[Post Sexual Futures](https://psf-preview.vercel.app/)<br />
+[Post-Sexual Futures](https://psf-preview.vercel.app/)<br />
 [NOA Architect](https://newoldarchitecture.com)<br />
 [LOW CLASSIC](https://lowclassic.com)<br />
 [grds](https://grds.com)<br/>
 [apart from that](https://apartfromthat-store.com)<br />
-[Post-Sexual Futures](https://postsexualfutures.com)<br />
 [Every Island is a Mountain](https://venicebiennale.kr)<br />
 [15th Gwangju Biennale](https://www.15gwangjubiennale.com/)<br />
 [Seoul Beauty Travel Week](https://www.seoulbeautytravel.com/kr)<br />
