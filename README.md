@@ -30,6 +30,7 @@ Computer Science Course, 42 Seoul
 ### Selected Projects
 
 
+[grds global](https://intl.grds.com)<br />
 [EMIS](https://emis.kr)<br />
 [Post-Sexual Futures](https://psf-preview.vercel.app/)<br />
 [NOA Architect](https://newoldarchitecture.com)<br />
