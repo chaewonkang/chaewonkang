@@ -9,8 +9,14 @@ ilpermet@gmail.com
 
 ### Work
 
+2025.6.~<br/>
+Director of OTP Co., Ltd.<br/>
+iam@your-otp.com<br/>
+[OTP IG](https://instagram.com/otp.company)<br/>
+[OTP Website](https://your-otp.com)<br/>
+
 2023~<br/>
-Digital Director of y! (Y Factorial)<br/>
+Co-Founder of y! (Y Factorial)<br/>
 hello@yfactorial.com<br/>
 [y! IG](https://instagram.com/yfactorial)<br/>
 [y! Website](https://yfactorial.com)<br/>
