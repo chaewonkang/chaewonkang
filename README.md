@@ -15,7 +15,7 @@ iam@your-otp.com<br/>
 [OTP IG](https://instagram.com/otp.company)<br/>
 [OTP Website](https://your-otp.com)<br/>
 
-2023~<br/>
+2023~2025.5.<br/>
 Co-Founder of y! (Y Factorial)<br/>
 hello@yfactorial.com<br/>
 [y! IG](https://instagram.com/yfactorial)<br/>
