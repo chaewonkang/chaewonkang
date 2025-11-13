@@ -17,8 +17,6 @@ iam@your-otp.com<br/>
 
 2023~2025.5.<br/>
 Co-Founder of y! (Y Factorial)<br/>
-hello@yfactorial.com<br/>
-[y! IG](https://instagram.com/yfactorial)<br/>
 [y! Website](https://yfactorial.com)<br/>
 
 2020~2022<br/>
@@ -35,7 +33,9 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
-
+[GALLERY SHOWER](https://showerseoul.com)<br />
+[Sea Art Festival 2025](https://saf2025.org)<br />
+[OOM](https://oomseoul.com)<br />
 [Cities and Signs](https://gg2024-p5.vercel.app)<br />
 [grds global](https://intl.grds.com)<br />
 [EMIS](https://emis.kr)<br />
