@@ -33,6 +33,7 @@ Computer Science Course, 42 Seoul
 
 ### Selected Projects
 
+[AIC (Asian Institutional Critique)](https://asianinstitutionalcritique.com)<br />
 [GALLERY SHOWER](https://showerseoul.com)<br />
 [Sea Art Festival 2025](https://saf2025.org)<br />
 [OOM](https://oomseoul.com)<br />
